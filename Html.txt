@@ -3,7 +3,7 @@ html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My First HTML Page</title>
+    <title>My First HTML code</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,4 +20,5 @@ html
     <h1>Welcome to My Website</h1>
     <p>This is a simple HTML page.</p>
 </body>
+
 </html>
